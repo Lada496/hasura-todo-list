@@ -5,7 +5,7 @@ const LoadingTodos = () => {
         {[1, 2, 3].map((num) => (
           <li key={num}>
             <div
-              data-placeholder
+              dataplaceholder="true"
               className="mb-2 h-5 w-full overflow-hidden relative bg-gray-200"
             ></div>
           </li>
