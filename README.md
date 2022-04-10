@@ -1,5 +1,5 @@
 # Your Todo List
-Todo list with GraphQL
+Todo list with GraphQL 
 
 ## Screen capture
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/67321065/158326007-f898e7f0-38a0-40c0-a0df-946ffe17f5ca.gif)
@@ -15,8 +15,7 @@ Todo list with GraphQL
 
 ## Built With
 - React
-- graphql
-- graphql-ws
+- Apollo Client
 - Tailwind CSS
 - Hasura
 
